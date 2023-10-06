@@ -1,16 +1,9 @@
 module Coretan where
 
-hello = "Apa Kabar"
+hello = "Apa Kabar,Ada Yang Bisa Kami Bantu yes/no,Apabila Ada Keluhan Yang Ingin Di Bicarakan Anda Cukup Menekan Kata Yes,Dan Apabila Tidak Ada keluhan Yang Ingin Di Bicarakan Cukup Menekan Kata No"
 
-baik = "Ada Yang Bisa Saya Bantu yes/no"
+yes  = "Keluhan Tentang layanan Kami , [Jaringan],[Layanan Product],[Pembelian product]"
+no = "Baik Jika Tidak Ada Keluhan Yang Ingin Di Sampaikan Anda Bisa Kapan Saja Menghubungi Layanan Pengaduan Kami di 24434, Saya Diego Pamit Undur Diri TERIMAKSIH"
 
-yes = "Baik Dalam 5 Menit Anda Akan Di Hubungi Oleh CS Kami Yang Sedang Bertugas"
-
-no = "Baik Kalo Begitu Terimakasih Sudah Menghubungi Costumer Service"
-
-nardi = x * y 
-
-x = 50
-
-y = 10
-
+jaringan = "Ooops Sepetinya Tidak Ada Masalah Dengan Jaringan Anda Hari Ini"
+layanan product = "Sepertinya Permintaan Anda Tidak Bisa Di Proses Saat Ini"
