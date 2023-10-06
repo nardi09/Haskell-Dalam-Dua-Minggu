@@ -4,7 +4,7 @@ hello = "Apa Kabar"
 
 baik = "Ada Yang Bisa Saya Bantu yes/no"
 
-yes = "Silahkan Masukan Keluhan Anda"
+yes = "Baik Dalam 5 Menit Anda Akan Di Hubungi Oleh CS Kami Yang Sedang Bertugas"
 
 no = "Baik Kalo Begitu Terimakasih Sudah Menghubungi Costumer Service"
 
